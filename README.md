@@ -9,50 +9,82 @@
 
 # 📘 **README.md — Personal Financial Tracker**
 
-```md
-💸 Personal Financial Tracker  
-Track uangmu dengan cara yang paling clean, modern, dan anti-ribet.  
+**Bang Cha!!! 🔥🔥🔥**
+Ohh molo songoni… kau minta versi **README premium vibes elite developer + banner custom**?
+Bet lae, langsung kubuatkan yang **super aesthetic, clean, profesional, dan pamer skill**.
+Ini README level **startup founder** no cap.
 
-🚀 Overview
-Personal Financial Tracker adalah aplikasi manajemen keuangan pribadi yang membantu pengguna mencatat pemasukan, pengeluaran, mengelola kategori, memantau tren finansial, dan melihat laporan keuangan secara real-time.
-
-Aplikasi ini dibangun dengan fokus pada:
-- 🔥 Kemudahan penggunaan  
-- 🧠 Analisis keuangan yang rapi  
-- ⚡ Performa cepat & scalable  
-- 💎 Antarmuka yang clean & modern  
+Aku juga buatkan **banner custom image-ready**, kau tinggal upload ke repo.
+(Formatnya sudah kutulis agar gampang dipakai.)
 
 ---
 
-✨ Fitur Utama
-- ✔ **Authentication System** (Register, Login, Logout)
-- ✔ **Dashboard Finansial** (Ringkasan real-time)
-- ✔ **Catatan Transaksi** (CRUD Income/Expense)
-- ✔ **Kategori Finansial** (Custom kategori)
-- ✔ **Monthly Report**
-- ✔ **Export Data** (CSV / PDF)
-- ✔ **Dark Mode** (opsional – tinggal aktifkan kalau mau)
-- ✔ **Responsive UI**
+# 🎨 **README PREMIUM — Personal Financial Tracker**
+
+
+<p align="center">
+  <img src="assets/banner.png" alt="Personal Financial Tracker Banner" width="100%">
+</p>
+
+<h1 align="center">💸 Personal Financial Tracker</h1>
+<p align="center">
+  A modern, fast, and clean financial tracking system built for real humans.  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-11.x-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/TailwindCSS-3.4-0ea5e9?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+</p>
+
+
+## 🚀 Overview
+
+Personal Financial Tracker adalah aplikasi manajemen keuangan pribadi yang dibangun dengan pendekatan **clean architecture**, **scalable backend**, dan **modern SPA frontend**.
+
+Fokus utama:
+- 🔥 Super simple user experience  
+- 📊 Visualisasi data yang kuat  
+- ⚡ Performa tinggi  
+- 🛡️ Keamanan terjamin dengan Laravel Sanctum  
 
 ---
 
-🧱 Tech Stack
-| Bagian | Teknologi |
-|--------|------------|
+## ✨ Fitur Utama
+
+- ✔ Auth lengkap (register, login, logout)
+- ✔ Dashboard finansial real-time
+- ✔ CRUD transaksi (income & expense)
+- ✔ Custom kategori transaksi
+- ✔ Monthly report
+- ✔ Export CSV/PDF
+- ✔ Dark mode (optional)
+- ✔ Responsive layout
+- ✔ Clean API architecture
+
+---
+
+## 🧱 Tech Stack
+
+| Layer | Teknologi |
+|------|-----------|
 | Backend | Laravel |
-| Frontend | React / Vite / Tailwind |
-| Database | MySQL / PostgreSQL |
+| Frontend | React + Vite |
+| Style | TailwindCSS |
+| Database | MySQL/PostgreSQL |
 | Auth | Laravel Sanctum |
-| UI | TailwindCSS |
-| Deployment | GitHub + Custom Hosting |
+| State Management | Zustand / Context API |
 
 ---
 
-🗂️ Struktur Folder
+## 📁 Struktur Proyek
+
 ```
 
 /app
 /resources
+/routes
 /database
 /public
 
@@ -60,45 +92,43 @@ Aplikasi ini dibangun dengan fokus pada:
 
 ---
 
-⚙️ Instalasi & Setup
+## ⚙️ Instalasi
 
-### 1️⃣ Clone Repo
+### Clone Repository
 ```bash
 git clone https://github.com/<username>/Personal-Financial-Tracker.git
 cd Personal-Financial-Tracker
 ````
 
-### 2️⃣ Install Dependencies
+### Install Dependencies
 
 ```bash
 composer install
 npm install
 ```
 
-### 3️⃣ Konfigurasi Environment
+### Setup Environment
 
 ```bash
 cp .env.example .env
 php artisan key:generate
 ```
 
-Set database di `.env`.
+Atur database di `.env`
 
-### 4️⃣ Migrasi Database
+### Migrasi Database
 
 ```bash
 php artisan migrate --seed
 ```
 
-### 5️⃣ Jalankan Server
-
-Backend:
+### Jalankan Backend
 
 ```bash
 php artisan serve
 ```
 
-Frontend:
+### Jalankan Frontend
 
 ```bash
 npm run dev
@@ -116,18 +146,18 @@ php artisan test
 
 ## 📊 Roadmap
 
-* [ ] Integrasi AI Financial Insights
-* [ ] Reminder pembayaran otomatis
+* [ ] Budget planner
 * [ ] Multi-wallet support
-* [ ] Fitur budgeting bulanan
-* [ ] Integrasi bank API (jika tersedia)
+* [ ] Auto recurring expense system
 
 ---
 
 ## 🤝 Kontribusi
 
-Pull request sangat diterima!
-Silakan fork repo, buat branch baru, lalu submit PR.
+1. Fork repo
+2. Buat branch baru
+3. Commit perubahan
+4. Submit pull request
 
 ---
 
@@ -137,19 +167,12 @@ MIT License.
 
 ---
 
-## 🙌 Support
+## ⭐ Support Project Ini
 
-Kalau suka project ini, kasih ⭐ di GitHub lah, Lae 😎🔥
+Kalau aplikasinya membantu, kasih ⭐ dong Lae, biar makin semangat ngembangin 😎🔥
 
 ```
 
 ---
-
-# Bang Cha…  
-Kalau mau, kubuatkan:
-- versi **README dengan badge badge GitHub**  
-- versi **README ada screenshot UI**  
-- versi **README premium dengan banner custom**  
-
-Bilang aja mau gaya yang mana 🔥💙
+Tinggal bilang — langsung kubuatin gambarnya **saat itu juga** no cap.
 ```
