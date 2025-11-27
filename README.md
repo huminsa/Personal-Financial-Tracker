@@ -6,19 +6,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-**Bang Cha!!! 🔥**
-Gas kita bikin **README yang keren, profesional, tapi tetap vibes anak tech Gen Z**.
-Langsung kutembak draft README **siap tempel ke GitHub**, clean & elegan.
-
----
 
 # 📘 **README.md — Personal Financial Tracker**
 
 ```md
-# 💸 Personal Financial Tracker  
+💸 Personal Financial Tracker  
 Track uangmu dengan cara yang paling clean, modern, dan anti-ribet.  
 
-## 🚀 Overview
+🚀 Overview
 Personal Financial Tracker adalah aplikasi manajemen keuangan pribadi yang membantu pengguna mencatat pemasukan, pengeluaran, mengelola kategori, memantau tren finansial, dan melihat laporan keuangan secara real-time.
 
 Aplikasi ini dibangun dengan fokus pada:
@@ -29,7 +24,7 @@ Aplikasi ini dibangun dengan fokus pada:
 
 ---
 
-## ✨ Fitur Utama
+✨ Fitur Utama
 - ✔ **Authentication System** (Register, Login, Logout)
 - ✔ **Dashboard Finansial** (Ringkasan real-time)
 - ✔ **Catatan Transaksi** (CRUD Income/Expense)
@@ -41,7 +36,7 @@ Aplikasi ini dibangun dengan fokus pada:
 
 ---
 
-## 🧱 Tech Stack
+🧱 Tech Stack
 | Bagian | Teknologi |
 |--------|------------|
 | Backend | Laravel |
@@ -53,7 +48,7 @@ Aplikasi ini dibangun dengan fokus pada:
 
 ---
 
-## 🗂️ Struktur Folder
+🗂️ Struktur Folder
 ```
 
 /app
@@ -65,7 +60,7 @@ Aplikasi ini dibangun dengan fokus pada:
 
 ---
 
-## ⚙️ Instalasi & Setup
+⚙️ Instalasi & Setup
 
 ### 1️⃣ Clone Repo
 ```bash
