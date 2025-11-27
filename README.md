@@ -44,7 +44,9 @@ Fokus utama:
 - ⚡ Performa tinggi  
 - 🛡️ Keamanan terjamin dengan Laravel Sanctum  
 </p>
+
 ---
+
 ## ✨ Fitur Utama
 <p align="center">
 
@@ -121,8 +123,9 @@ Fokus utama:
 ## ⚙️ Instalasi
 
 ### Clone Repository
-```bash
-git clone https://github.com/<username>/Personal-Financial-Tracker.git
+```
+bash
+git clone https://github.com/huminsa/Personal-Financial-Tracker.git
 cd Personal-Financial-Tracker
 ````
 
