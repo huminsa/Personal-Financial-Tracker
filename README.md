@@ -55,6 +55,27 @@ Fokus utama:
 - ✔ Responsive layout
 - ✔ Clean API architecture
 ---
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><strong>Dashboard</strong></td>
+    <td><img src="public/images/screenshots/dashboard.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><strong>Tambah Transaksi</strong></td>
+    <td><img src="public/images/screenshots/add-transaction.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><strong>Riwayat Transaksi</strong></td>
+    <td><img src="public/images/screenshots/history.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td><strong>Laporan Bulanan</strong></td>
+    <td><img src="public/images/screenshots/report.png" width="100%"></td>
+  </tr>
+</table>
+
 ## 🧱 Tech Stack
 
 | Layer | Teknologi |
