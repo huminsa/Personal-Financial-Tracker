@@ -27,9 +27,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-11.x-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Laravel-12.xx-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/TailwindCSS-3.4-0ea5e9?style=for-the-badge">
+  <img src="https://img.shields.io/badge/TailwindCSS-3.xx-0ea5e9?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
 </p>
 
