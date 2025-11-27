@@ -23,7 +23,7 @@ Aku juga buatkan **banner custom image-ready**, kau tinggal upload ke repo.
 
 
 <p align="center">
-  <img src="/images/banner.png" alt="Personal Financial Tracker Banner" width="100%">
+  <img src="public/images/banner.png" alt="Personal Financial Tracker Banner" width="100%">
 </p>
 
 <h1 align="center">💸 Personal Financial Tracker</h1>
