@@ -80,7 +80,7 @@ Fokus utama:
   </tr>
   <tr>
     <td><strong>Budget</strong></td>
-    <td><img src="public/images/screenshots/budget.png" width="100%"></td>
+    <td><img src="public/images/screenshots/budgets.png" width="100%"></td>
   </tr>
     <tr>
     <td><strong>Kategori</strong></td>
