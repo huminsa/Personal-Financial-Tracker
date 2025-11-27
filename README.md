@@ -6,16 +6,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-
-# 📘 **README.md — Personal Financial Tracker**
-
-**Bang Cha!!! 🔥🔥🔥**
-Ohh molo songoni… kau minta versi **README premium vibes elite developer + banner custom**?
-Bet lae, langsung kubuatkan yang **super aesthetic, clean, profesional, dan pamer skill**.
-Ini README level **startup founder** no cap.
-
-Aku juga buatkan **banner custom image-ready**, kau tinggal upload ke repo.
-(Formatnya sudah kutulis agar gampang dipakai.)
+<p align="center">
+  <a href="https://instagram.com/mintzngl" target="_blank">
+    <img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -40,9 +35,7 @@ Aku juga buatkan **banner custom image-ready**, kau tinggal upload ke repo.
 
 
 ## 🚀 Overview
-
 Personal Financial Tracker adalah aplikasi manajemen keuangan pribadi yang dibangun dengan pendekatan **clean architecture**, **scalable backend**, dan **modern SPA frontend**.
-
 Fokus utama:
 - 🔥 Super simple user experience  
 - 📊 Visualisasi data yang kuat  
@@ -50,7 +43,6 @@ Fokus utama:
 - 🛡️ Keamanan terjamin dengan Laravel Sanctum  
 
 ---
-
 ## ✨ Fitur Utama
 
 - ✔ Auth lengkap (register, login, logout)
@@ -62,9 +54,7 @@ Fokus utama:
 - ✔ Dark mode (optional)
 - ✔ Responsive layout
 - ✔ Clean API architecture
-
 ---
-
 ## 🧱 Tech Stack
 
 | Layer | Teknologi |
@@ -72,12 +62,10 @@ Fokus utama:
 | Backend | Laravel |
 | Frontend | React + Vite |
 | Style | TailwindCSS |
-| Database | MySQL/PostgreSQL |
+| Database | MySQL |
 | Auth | Laravel Sanctum |
 | State Management | Zustand / Context API |
-
 ---
-
 ## 📁 Struktur Proyek
 
 ```
