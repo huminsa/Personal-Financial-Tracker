@@ -63,16 +63,24 @@ Fokus utama:
     <td><img src="public/images/screenshots/dashboard.png" width="100%"></td>
   </tr>
   <tr>
-    <td><strong>Tambah Transaksi</strong></td>
-    <td><img src="public/images/screenshots/add-transaction.png" width="100%"></td>
+    <td><strong>Transaksi</strong></td>
+    <td><img src="public/images/screenshots/transaksi.png" width="100%"></td>
   </tr>
   <tr>
-    <td><strong>Riwayat Transaksi</strong></td>
-    <td><img src="public/images/screenshots/history.png" width="100%"></td>
+    <td><strong>Akun</strong></td>
+    <td><img src="public/images/screenshots/akun.png" width="100%"></td>
   </tr>
   <tr>
-    <td><strong>Laporan Bulanan</strong></td>
-    <td><img src="public/images/screenshots/report.png" width="100%"></td>
+    <td><strong>Budget</strong></td>
+    <td><img src="public/images/screenshots/budget.png" width="100%"></td>
+  </tr>
+    <tr>
+    <td><strong>Kategori</strong></td>
+    <td><img src="public/images/screenshots/kategori.png" width="100%"></td>
+  </tr>
+    <tr>
+    <td><strong>Laporan dan Analisis</strong></td>
+    <td><img src="public/images/screenshots/Laporan.png" width="100%"></td>
   </tr>
 </table>
 
@@ -182,6 +190,11 @@ Kalau aplikasinya membantu, kasih ⭐ dong Lae, biar makin semangat ngembangin �
 
 ```
 
----
-Tinggal bilang — langsung kubuatin gambarnya **saat itu juga** no cap.
 ```
+<h1 align="center">💸 Personal Financial Tracker X Algoritma Z-score + Isolation Forest🚀 </h1>
+
+
+
+---
+
+---
