@@ -37,13 +37,16 @@
 ## 🚀 Overview
 Personal Financial Tracker adalah aplikasi manajemen keuangan pribadi yang dibangun dengan pendekatan **clean architecture**, **scalable backend**, dan **modern SPA frontend**.
 Fokus utama:
+<p align="center">
+
 - 🔥 Super simple user experience  
 - 📊 Visualisasi data yang kuat  
 - ⚡ Performa tinggi  
 - 🛡️ Keamanan terjamin dengan Laravel Sanctum  
-
+</p>
 ---
 ## ✨ Fitur Utama
+<p align="center">
 
 - ✔ Auth lengkap (register, login, logout)
 - ✔ Dashboard finansial real-time
@@ -55,6 +58,9 @@ Fokus utama:
 - ✔ Responsive layout
 - ✔ Clean API architecture
 ---
+
+</p>
+
 ## 📸 Screenshots
 
 <table>
@@ -83,8 +89,10 @@ Fokus utama:
     <td><img src="public/images/screenshots/Laporan.png" width="100%"></td>
   </tr>
 </table>
+<p align="center">
 
 ## 🧱 Tech Stack
+<p align="center">
 
 | Layer | Teknologi |
 |------|-----------|
@@ -96,6 +104,7 @@ Fokus utama:
 | State Management | Zustand / Context API |
 ---
 ## 📁 Struktur Proyek
+</p>
 
 ```
 
@@ -191,10 +200,10 @@ Kalau aplikasinya membantu, kasih ⭐ dong Lae, biar makin semangat ngembangin �
 ```
 
 ```
+<h1 align="center">Next kita gas </h1>
+
 <h1 align="center">💸 Personal Financial Tracker X Algoritma Z-score + Isolation Forest🚀 </h1>
 
 
-
----
 
 ---
