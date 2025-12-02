@@ -14,7 +14,7 @@
 
 ---
 
-# 🎨 **README PREMIUM — Personal Financial Tracker**
+# 🎨 **README — Personal Financial Tracker**
 
 
 <p align="center">
@@ -88,7 +88,7 @@ Fokus utama:
   </tr>
     <tr>
     <td><strong>Laporan dan Analisis</strong></td>
-    <td><img src="public/images/screenshots/Laporan.png" width="100%"></td>
+    <td><img src="public/images/screenshots/laporan.png" width="100%"></td>
   </tr>
 </table>
 <p align="center">
